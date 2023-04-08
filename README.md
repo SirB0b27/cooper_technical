@@ -1,2 +1,1 @@
-# cooper_technical
-Cooper Technical Interview Case Study
+# Cooper Technical Interview Case Study
